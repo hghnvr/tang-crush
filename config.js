@@ -9,8 +9,7 @@ const CONFIG = {
     question:'Thật à, vinh dự quá =)) tại sao vậy ?',
     btnReply: 'Gửi <3',
     reply: 'tại cậu quá tuyệt vời ;))',
-    mess: 'ok 😉 cậu cũng cute xinh đẹp lắm ',
-    
+    mess: 'ok 😉 cậu cũng cute xinh đẹp lắm',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/votin.votin.'
 }
