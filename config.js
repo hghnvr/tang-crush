@@ -10,6 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi <3',
     reply: 'tại cậu quá tuyệt vời ;))',
     mess: 'ok 😉 cậu cũng cute xinh đẹp lắm',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/votin.votin.'
+    messLink: 'https://m.me/votin.votin.77
 }
