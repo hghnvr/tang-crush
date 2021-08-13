@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'HELLO!',
+    introDesc: `cho tớ hỏi cái này, rảnh thì trả lời thật lòng nhá nói điêu làm chó :))`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Có thương tớ khum 😙',
+    desc: 'Cậu mà tắt cái này nghĩa là thừa nhận :)) ',
+    btnYes: 'Có! iu iu',
+    btnNo: 'MÀY MƠ À',
+    question:'Thật à, vinh dự quá =)) tại sao vậy ?',
+    btnReply: 'Gửi <3',
+    reply: 'tại cậu quá tuyệt vời ;))',
+    mess: 'ok 😉 cậu cũng cute xinh đẹp lắm <img src='http://duminhphongadv.com/files/assets/4.png'/></p></br>"); ',
+    
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/votin.votin.'
 }
